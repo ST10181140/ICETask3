@@ -1,0 +1,14 @@
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.AssemblyInfoInputs.cache
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.AssemblyInfo.cs
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.csproj.CoreCompileInputs.cache
+C:\Users\anees\source\repos\Empployee\Empployee\bin\Debug\net6.0\Empployee.exe
+C:\Users\anees\source\repos\Empployee\Empployee\bin\Debug\net6.0\Empployee.deps.json
+C:\Users\anees\source\repos\Empployee\Empployee\bin\Debug\net6.0\Empployee.runtimeconfig.json
+C:\Users\anees\source\repos\Empployee\Empployee\bin\Debug\net6.0\Empployee.dll
+C:\Users\anees\source\repos\Empployee\Empployee\bin\Debug\net6.0\Empployee.pdb
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.dll
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\refint\Empployee.dll
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.pdb
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\Empployee.genruntimeconfig.cache
+C:\Users\anees\source\repos\Empployee\Empployee\obj\Debug\net6.0\ref\Empployee.dll
